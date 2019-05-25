@@ -1,6 +1,6 @@
 # git_object
 
-i know  anything
+i know  something
 
 but  i dnot  say
 
